@@ -13,21 +13,24 @@ MonoBehaviour:
   m_Name: NPC3DialogeData
   m_EditorClassIdentifier: 
   NPCName: Pink man
-  NPCSprite: {fileID: 21300000, guid: a6da076f39552314f8924d762bf96b04, type: 3}
+  NPCSprite: {fileID: 21300000, guid: f56a82f99130126418bfc8e3b2f7a0dd, type: 2}
   PlayerName: LUNA
   PlayerSprite: {fileID: 21300000, guid: d518b6cec781bcf469337162ef786113, type: 3}
   dialogueLines:
   - speaker: 0
-    line: "\u4F60\u6C38\u9060\u7121\u6CD5\u96E2\u958B\uFF0C\u4EA6\u7121\u6CD5\u7D42\u7D50\u9019\u4E00\u5207\u3002\nYou
-      can never leave. Nor can you ever end this."
-    autoProgress: 1
-  - speaker: 0
-    line: "\u82E5\u795E\u62CB\u68C4\u4F60\uFF0C\u4F60\u662F\u5426\u4ECD\u5805\u4FE1\u8457\u9858\u671B\uFF1F\r\nIf
+    line: "\u554F\u984C3\n\u82E5\u795E\u62CB\u68C4\u4F60\uFF0C\u4F60\u662F\u5426\u4ECD\u5805\u4FE1\u8457\u9858\u671B\uFF1F\nIf
       God forsakes you, will you still cling to your wish?"
     autoProgress: 1
+  - speaker: 0
+    line: "\u4F60\u6C38\u9060\u7121\u6CD5\u96E2\u958B\uFF0C\u4EA6\u7121\u6CD5\u7D42\u7D50\u9019\u4E00\u5207\u3002\nYou
+      can never leave. Nor can you ever end this.\n"
+    autoProgress: 1
+  - speaker: 0
+    line: "\u5728\u6B64\u5730\uFF0C\u4F60\u5373\u662F\u795E\uFF0C\u4EA6\u662F\u7F6A\uFF0C\u4E5F\u662F\u7121\u3002\nHere,
+      you are god, you are sin, and you are nothing."
+    autoProgress: 1
   - speaker: 1
-    line: "\u5BE6\u9A57\u9AD4\uFF30\uFF25\uFF10\uFF14\uFF19\uFF0D\u300C\u795E\u7684\u6B65\u4F10\u300D\r\nTest
-      Subject PE049 \u2013 \u201CThe Footsteps of God\u201D\r\n\u5148\u4E82\u5BEB\u4E00\u9EDE"
+    line: ......
     autoProgress: 1
   autoProgressDelay: 1.5
   typingSeed: 0.05

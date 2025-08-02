@@ -19,25 +19,31 @@ MonoBehaviour:
   dialogueLines:
   - speaker: 0
     line: "\u6B64\u5730\u4EA6\u70BA\u6C38\u6046\uFF0C\u5373\u70BA\u7D42\u7D50\u3002\nThis
-      place is also eternity; it is the end."
+      place is also eternity; it is the end.\n\n"
     autoProgress: 1
   - speaker: 0
     line: "\u7A7A\u6C23\u70BA\u7121\u7528\u4E4B\u7269\uFF0C\u5C07\u5176\u6368\u68C4\u3002\nAir
-      is a useless thing\u2014discard it."
+      is a useless thing\u2014discard it"
+    autoProgress: 1
+  - speaker: 1
+    line: ......
     autoProgress: 1
   - speaker: 0
-    line: "\u4FE1\u4EF0\u4E43\u7121\u5984\u4E4B\u5FF5\uFF0C\u5C07\u5176\u62CB\u68C4\u3002\r\nFaith
+    line: "\u4FE1\u4EF0\u4E43\u7121\u5984\u4E4B\u5FF5\uFF0C\u5C07\u5176\u62CB\u68C4\u3002\nFaith
       is a delusion\u2014abandon it."
     autoProgress: 1
   - speaker: 0
-    line: "\u9003\u96E2\uFF0C\u70BA\u4F60\u6C38\u6046\u7684\u76EE\u7684\u3002\r\nEscape
-      is your eternal purpose."
+    line: "\u5BE9\u8996\u5FC3\u81DF\uFF0C\u6316\u51FA\u4F86\u4E88\u4EE5\u773E\u4EBA\u77BB\u671B\u3002\nGaze
+      upon your heart; tear it out and offer it for all to see."
     autoProgress: 1
   - speaker: 0
-    line: "\u5BE9\u8996\u5FC3\u81DF\uFF0C\u6316\u51FA\u4F86\u4E88\u4EE5\u773E\u4EBA\u77BB\u671B\u3002\r\nGaze
-      upon your heart; tear it out and offer it for all to see."
+    line: "\u9003\u96E2\uFF0C\u70BA\u4F60\u6C38\u6046\u7684\u76EE\u7684\u3002\nEscape
+      is your eternal purpose."
+    autoProgress: 1
+  - speaker: 1
+    line: ??????
     autoProgress: 1
   autoProgressDelay: 1.5
   typingSeed: 0.05
-  voiceSound: {fileID: 8300000, guid: 12f6b58b6948fb942954d9fa2bac1e1b, type: 3}
+  voiceSound: {fileID: 8300000, guid: 01a24094885565e4a96f533030ed68de, type: 3}
   voicePitch: 1

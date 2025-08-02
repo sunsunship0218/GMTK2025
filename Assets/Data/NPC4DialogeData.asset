@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68eb8d7b89a75044789841b6f63aaebd, type: 3}
+  m_Name: NPC4DialogeData
+  m_EditorClassIdentifier: 
+  NPCName: Pink man
+  NPCSprite: {fileID: 21300000, guid: 3baf523a8842625419febbfa9972cbb3, type: 2}
+  PlayerName: LUNA
+  PlayerSprite: {fileID: 21300000, guid: d518b6cec781bcf469337162ef786113, type: 3}
+  dialogueLines:
+  - speaker: 0
+    line: "\u6708\u4EAE\u662F\u5982\u6B64\u6E05\u6F88\uFF0C\u7136\u800C\u4F60\u5C07\u7A97\u6236\u95DC\u4E0A\u3002\nThe
+      moon is so clear,\nyet you shut the window."
+    autoProgress: 1
+  - speaker: 0
+    line: "\u592A\u967D\u662F\u5982\u6B64\u660E\u4EAE\uFF0C\u6240\u4EE5\u4F60\u5C07\u71C8\u6CE1\u7184\u6EC5\u3002\nThe
+      sun is so bright,\nso you turn off the light."
+    autoProgress: 1
+  - speaker: 0
+    line: "\u751F\u6B7B\u6BEB\u7121\u610F\u7FA9\uFF0C\u795E\u610F\u5373\u70BA\u5168\u90E8\u3002\nLife
+      and death bear no meaning\u2014\ndivine will is all that matters."
+    autoProgress: 1
+  - speaker: 1
+    line: '?'
+    autoProgress: 1
+  - speaker: 0
+    line: "\u6B64\u5730\u4E0D\u53EF\u7121\u795E\uFF0C\u5373\u70BA\u4F60\u6C38\u9060\u9003\u4E0D\u4E86\u3002\nThis
+      land must not be without God;\nthus, you can never escape.\n"
+    autoProgress: 1
+  - speaker: 0
+    line: "\u5426\u5B9A\u70BA\u53D7\u56F0\uFF0C\u8A8D\u5B9A\u70BA\u5275\u9020\u3002\nTo
+      deny is to be imprisoned;\nto affirm is to create."
+    autoProgress: 1
+  - speaker: 1
+    line: "\u6211\u662F\u8AB0?\nWho am I?"
+    autoProgress: 1
+  - speaker: 0
+    line: "\u5FAA\u74B0\u5373\u662F\u4F60\uFF0C\u4F60\u5373\u662F\u5FAA\u74B0\u3002\nThe
+      LOOP is you, and you are the LOOP."
+    autoProgress: 1
+  - speaker: 0
+    line: "\u4EE5\u6B64\uFF0C\u6C38\u9060\u5E38\u5728\u3002\nThus, eternity remains."
+    autoProgress: 1
+  - speaker: 0
+    line: "\u5BE6\u9A57\u9AD4\uFF30\uFF25\uFF10\uFF14\uFF19\uFF0D\u300C\u795E\u7684\u6B65\u4F10\u300D\nTest
+      Subject PE049 \u2013 \u201CThe Footsteps of God\u201D"
+    autoProgress: 1
+  autoProgressDelay: 1.5
+  typingSeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 5aa0368efa006aa4590ff00e6f844e98, type: 3}
+  voicePitch: 1
